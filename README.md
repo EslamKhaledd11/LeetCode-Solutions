@@ -16,10 +16,7 @@ Each folder is named by the problem number and title for easy navigation:
 
 ### 🛠️ Tech Stack
 - **Language:** C++
-- **Automation:** Bash Script + Git + Windows Task Scheduler
 - **Environment:** MinGW / GCC
 
 ---
 *“First, solve the problem. Then, write the code.” – John Johnson*
-
-Connect with me on [GitHub](https://github.com/EslamKhaledd11) ⚡
