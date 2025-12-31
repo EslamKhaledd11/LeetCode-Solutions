@@ -13,6 +13,7 @@ To maintain a streak of consistency, I use a **custom Bash script** and **Window
 Each folder is named by the problem number and title for easy navigation:
 - `[Problem_No.] [Problem_Title]`
   - `code.cpp` (The logic)
+  - `optmize.cpp` (optmization of solution) but not all problems 
 
 ### 🛠️ Tech Stack
 - **Language:** C++
